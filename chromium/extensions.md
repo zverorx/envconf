@@ -1,8 +1,0 @@
-# Previous Tab
-
-ID:
- 
-```
-bjaniflnlhhofabpoamhnobeonjcjjpl
-```
-
