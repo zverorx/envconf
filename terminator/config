@@ -1,0 +1,19 @@
+[global_config]
+[keybindings]
+[profiles]
+  [[default]]
+    background_color = "#282828"
+    font = Monospace 16
+    foreground_color = "#ebdbb2"
+    scrollback_lines = 10000
+    use_system_font = False
+    title_transmit_bg_color = "#a51d2d"
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+[plugins]
